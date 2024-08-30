@@ -20,7 +20,7 @@ const Hero = () => {
             </div>
         </div>
         <div className="md:w-[50%] flex mt-[50px] md:mt-[0px] justify-center items-center">
-            <img src = "./public/picq.png" className="w-[50%] h-[50%] md:w-[450px] md:h-[450px]"/>
+            <img src = "https://res.cloudinary.com/dkfznhahe/image/upload/v1725007444/picq_vkelm9.png" className="w-[50%] h-[50%] md:w-[450px] md:h-[450px]"/>
         </div>
     </div>
   )

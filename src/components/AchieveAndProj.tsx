@@ -33,39 +33,39 @@ const AchieveAndProj = () => {
             "Utilizes cloudinary for all media uploads syncing the URL of each media upload with the appropriate user account."
           ]} array={[
             {
-              img:"./public/iland.png",
+              img:"https://res.cloudinary.com/dkfznhahe/image/upload/v1725007403/iland_cbdv92.png",
               text: "URL takes you to the landing page"
             },
             {
-              img:"./public/infiauth0.png",
+              img:"https://res.cloudinary.com/dkfznhahe/image/upload/v1725007403/infiauth0_zxyym6.png",
               text: "Auth0 handles the authentication but with each sign in, a new jsonwebtoken is generated."
             },
             {
-              img:"./public/infiadd.png",
+              img:"https://res.cloudinary.com/dkfznhahe/image/upload/v1725007403/infiadd_gwrzh9.png",
               text: "Search for a potential friend and send a friend request"
             },
             {
-              img:"./public/infiadded.png",
+              img:"https://res.cloudinary.com/dkfznhahe/image/upload/v1725007403/infiadded_nov6gl.png",
               text: "Once added, a notification is sent to the receiver"
             },
             {
-              img:"./public/infinoti.png",
+              img:"https://res.cloudinary.com/dkfznhahe/image/upload/v1725007403/infinoti_mb3quu.png",
               text: "Once notification is received and friends request is accepted, you become friends"
             },
             {
-              img:"./public/infifriends.png",
+              img:"https://res.cloudinary.com/dkfznhahe/image/upload/v1725007403/infifriends_oubaxi.png",
               text: "Once you are friends with someone, you can chat with them"
             },
             {
-              img:"./public/infisentmess.png",
+              img:"https://res.cloudinary.com/dkfznhahe/image/upload/v1725007407/infisentmess_igyi6v.png",
               text: "Sending a message happens in real time and is taken care of by Socket.IO"
             },
             {
-              img:"./public/infireceived.png",
+              img:"https://res.cloudinary.com/dkfznhahe/image/upload/v1725007407/infireceived_jayptu.png",
               text: "Receiving a message happens in real time and is taken care of by Socket.IO"
             },
             {
-              img:"./public/infimessageopen.png",
+              img:"https://res.cloudinary.com/dkfznhahe/image/upload/v1725007403/infimessageopen_fd6ubd.png",
               text: "If the user is currently chatting with someone else, it adds to the queue of notifications and is only loaded once the user opens that specific chat."
             },
           ]}/>
@@ -79,43 +79,43 @@ const AchieveAndProj = () => {
             "Utilizes cloudinary for all media uploads."
           ]} array={[
             {
-              img:"./public/hungrylanding.png",
+              img:"https://res.cloudinary.com/dkfznhahe/image/upload/v1725007402/hungrylanding_ikzowa.png",
               text: "URL takes you to the landing page"
             },
             {
-              img:"./public/hungryautho.png",
+              img:"https://res.cloudinary.com/dkfznhahe/image/upload/v1725007402/hungryautho_fjriqp.png",
               text: "Auth0 handles the authentication but with each sign in, a new jsonwebtoken is generated."
             },
             {
-              img:"./public/hungrysearch.png",
+              img:"https://res.cloudinary.com/dkfznhahe/image/upload/v1725007403/hungrysearch_ch2kil.png",
               text: "Search for restaurants in a particular city. Dummy data for Victoria"
             },
             {
-              img:"./public/hungrysearchresults.png",
+              img:"https://res.cloudinary.com/dkfznhahe/image/upload/v1725007403/hungrysearchresults_eld9pa.png",
               text: "Search results are displayed in separate window. All filters are operatinal sending different API calls to update results. Pagination is implemented to avoid unneeded data loading."
             },
             {
-              img:"./public/hungryopenrestaurant.png",
+              img:"https://res.cloudinary.com/dkfznhahe/image/upload/v1725007401/hungryopenrestaurant_olua78.png",
               text: "Restaurant page to add items to your cart."
             },
             {
-              img:"./public/hungryaddtocart.png",
+              img:"https://res.cloudinary.com/dkfznhahe/image/upload/v1725007401/hungryaddtocart_qpgkgm.png",
               text: "Once you add items to cart, you can checkout."
             },
             {
-              img:"./public/hungryconfirmdetails.png",
+              img:"https://res.cloudinary.com/dkfznhahe/image/upload/v1725007402/hungryconfirmdetails_ctqmw3.png",
               text: "Before checking out, confirm details one last time"
             },
             {
-              img:"./public/hungrystripe.png",
+              img:"https://res.cloudinary.com/dkfznhahe/image/upload/v1725007402/hungrystripe_jydaze.png",
               text: "Upon clicking, you are taken to the payments page handled by Stripe"
             },
             {
-              img:"./public/hungryrestaurantreceiveorder.png",
+              img:"https://res.cloudinary.com/dkfznhahe/image/upload/v1725007402/hungryrestaurantreceiveorder_c1umir.png",
               text: "The specific restaurant receives the order and prepares"
             },
             {
-              img:"./public/hungryrestaurantprofile.png",
+              img:"https://res.cloudinary.com/dkfznhahe/image/upload/v1725007401/hungryaddtomenu_kwdfoi.png",
               text: "A page only for restaurant oweners to add items to the menu and make changes."
             },
           ]}/>
