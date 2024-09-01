@@ -70,11 +70,11 @@ const AchieveAndProj = () => {
             },
           ]}/>
           <ProjectCard name = {"Hungry"} url = {"https://hungryfrontend34.onrender.com/"} points = {[
-            "Food Delivery app build with ReactJS, TypeScript, React-Hook_forms, React-Redux, React-Query, Cloudinary, React-Icons, ExpressJS, Auth0, Mongoose, Stripe",
+            "Food Delivery app built with ReactJS, TypeScript, React-Hook_forms, React-Redux, React-Query, Cloudinary, React-Icons, ExpressJS, Auth0, Mongoose, Stripe",
             "Utilizes Stipe API with full integration for real time payment deposits.",
             "Utilizes React-redux (reduxjs-toolkit) for global state management for the whole application segregated in different slices",
             "Utilizes Mongoose for database handling and schema and model creation for all aspects of the project",
-            "Utilizes React-Hook-Form for form creation and validation thorughout entire project",
+            "Utilizes React-Hook-Form and Zod for form creation and validation thorughout entire project",
             "User authentication done with a combination of Auth-0 and JSON-web-tokens",
             "Utilizes cloudinary for all media uploads."
           ]} array={[
@@ -92,7 +92,7 @@ const AchieveAndProj = () => {
             },
             {
               img:"https://res.cloudinary.com/dkfznhahe/image/upload/v1725007403/hungrysearchresults_eld9pa.png",
-              text: "Search results are displayed in separate window. All filters are operatinal sending different API calls to update results. Pagination is implemented to avoid unneeded data loading."
+              text: "Search results are displayed in separate window. All filters are operational sending different API calls to update results. Pagination is implemented to avoid unneeded data loading."
             },
             {
               img:"https://res.cloudinary.com/dkfznhahe/image/upload/v1725007401/hungryopenrestaurant_olua78.png",
@@ -115,7 +115,7 @@ const AchieveAndProj = () => {
               text: "The specific restaurant receives the order and prepares"
             },
             {
-              img:"https://res.cloudinary.com/dkfznhahe/image/upload/v1725007401/hungryaddtomenu_kwdfoi.png",
+              img:"https://res.cloudinary.com/dkfznhahe/image/upload/v1725007401/hungryaddtomenu_kwdfoi.pnggit ",
               text: "A page only for restaurant oweners to add items to the menu and make changes."
             },
           ]}/>

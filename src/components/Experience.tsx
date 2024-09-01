@@ -8,7 +8,7 @@ const Experience = () => {
         </div>
         <div className="flex flex-col flex-wrap justify-center p-7  md:mt-[10px] w-fit gap-4 space-y-7">
             <ExperienceCard date = {"January 2024 - April 2024"} role = {"Application Developer"} org = {"Noratek Solutions"} points = {[
-                "Developed the front-end and back-end of the Dashboard component for the CityReporter product using NextJS and Kendo UI library/ReactJs for UI and writing groovy scripts to convert JSON data into a Kendo-readable Hashmaps",
+                "Developed the front-end and back-end of the Dashboard component for the CityReporter product using NextJS and Kendo UI library/ReactJs for UI and writing groovy scripts to convert JSON data into a Kendo-readable Hashmaps.",
                 "Built several REST API endpoints for the CityReporter product using robust in-house authentication middlewares using ExpressJS while following MVC architecture guidelines.",
                 "Assisted Senior Developers in transitioning various VanillaJS based components of the CityReporter product into Vite framework based components while utilzing typescript as the underlying language.",
 
@@ -22,7 +22,7 @@ const Experience = () => {
             <ExperienceCard date = {"September 2022 - December 2022"} role = {"Developer Intern"} org = {"VancouverLaptops.com"} points = {[
                 "Assisted in creating the landing page for the organization utilizng framer-motion, tailwindCSS, redux-toolkit and other npm libraries to ensure smooth animations and a good user experience.",
                 "Participated in weekly meetings for front-end design changes and discussions on changes in core technologies.",
-                "Worked with the Development team responsible for switcing over to functional components from class-based components for easier readablity and understanding for the future employees.",
+                "Worked with the Development team responsible for switching over to functional components from class-based components for easier readablity and understanding for the future employees.",
             ]}/>
         </div>
     </div>
