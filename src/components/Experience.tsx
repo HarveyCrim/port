@@ -8,7 +8,7 @@ const Experience = () => {
         </div>
         <div className="flex flex-col flex-wrap justify-center p-7  md:mt-[10px] w-fit gap-4 space-y-7">
             <ExperienceCard date = {"January 2024 - April 2024"} role = {"Application Developer"} org = {"Noratek Solutions"} points = {[
-                "Developed the front-end and back-end of the Dashboard component for the CityReporter product using NextJS and Kendo UI library/ReactJs for UI and writing groovy scripts to convert JSON data into a Kendo-readable Hashmaps.",
+                "Developed the front-end and back-end of the Dashboard component for the CityReporter product by using NextJS and Kendo UI library/ReactJs for UI and writing groovy scripts to convert JSON data into Kendo-readable Hashmaps.",
                 "Built several REST API endpoints for the CityReporter product using robust in-house authentication middlewares using ExpressJS while following MVC architecture guidelines.",
                 "Assisted Senior Developers in transitioning various VanillaJS based components of the CityReporter product into Vite framework based components while utilzing typescript as the underlying language.",
 
